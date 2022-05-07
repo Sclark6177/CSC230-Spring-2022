@@ -45,6 +45,10 @@ nav > ul {
    line-height: 2em;
    font-size: 0.9em;
 }
+nav a:visited, nav a:link {
+   text-decoration: none;
+   color: rgb(13, 59, 125);
+}
 
 
 
